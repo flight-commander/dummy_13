@@ -1,4 +1,9 @@
 # dummy_13
+
+how to put together dummy 13
+Youtube video explaining
+https://youtu.be/8B-OTjhiYfE
+
 dummy 13 PLA solution - dummy 13 Solved by flight commander for those having trouble prining dummy 13 in PLA
 
 DUMMY 13 with no PLA support created by soozafone - dummy 13 won't print with PLA 
