@@ -1,5 +1,10 @@
 # dummy_13
-dummy 13 PLA solution - Finally Solved
+dummy 13 PLA solution - dummy 13 Solved by flight commander for those having trouble prining dummy 13 in PLA
+
+DUMMY 13 with no PLA support created by soozafone - dummy 13 won't print with PLA 
+
+Slicer is cura 
+https://ultimaker.com/software/ultimaker-cura/
 
 
 This work is licensed under a
@@ -11,7 +16,9 @@ Attribution
 ✔ | Free Cultural Works
 ✔ | Meets Open Definition
 
-soozafone Creator of the original DUMMY 13 with no PLA Support
+
+
+
 Dummy 13 is now on a CC BY 4.0 license!
 This means that you are free to share these files however you like, including selling prints, provided that you give proper attribution. You can give proper attribution by including this notice on your product page:
 
