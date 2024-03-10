@@ -4,6 +4,24 @@ how to put together dummy 13
 Youtube video explaining
 https://youtu.be/8B-OTjhiYfE
 
+Material	Frame parts	PLA
+Armor parts	Vary - All set to 112 or 113
+Layer height		0.15 mm
+Initial Layer Height		0.2 mm
+Infill Density		10% 
+First layer speed	Leave Dynamic Default	
+		
+Supports		None
+Brim		As needed (depends on bed adhesion)
+Additional settings		☑ Print external perimeters first
+
+___________________________________________________________________________________________________
+
+Settings/sizes for all frame parts are in the Word Document
+
+___________________________________________________________________________________________________
+
+
 dummy 13 PLA solution - dummy 13 Solved by flight commander for those having trouble prining dummy 13 in PLA
 
 DUMMY 13 with no PLA support created by soozafone - dummy 13 won't print with PLA 
@@ -21,7 +39,7 @@ Attribution
 ✔ | Free Cultural Works
 ✔ | Meets Open Definition
 
-
+___________________________________________________________________________________________________
 
 
 Dummy 13 is now on a CC BY 4.0 license!
